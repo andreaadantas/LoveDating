@@ -4,6 +4,8 @@
 # Projeto 
 Um projeto desenvolvido por estudantes do Apple Developer Academy de Manaus-AM 
 
+Status do Projeto: Em desenvolvimento :warning:
+
 # Equipe Amoro
 Andrea Dantas
 [Linkedin](https://www.linkedin.com/in/juliana-dantas--04b189127/)
@@ -14,3 +16,5 @@ Vinícius Pinheiro
 Sarah Ninsi
 [Linkedin](https://www.linkedin.com/in/sarahninsi/)
 
+# Linguagens e libs
+SwiftUI
