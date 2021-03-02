@@ -4,14 +4,13 @@
 # Projeto 
 Um projeto desenvolvido por estudantes do Apple Developer Academy de Manaus-AM 
 
-# Desenvolvedores💻
+# Equipe Amoro
 Andrea Dantas
 [Linkedin](https://www.linkedin.com/in/juliana-dantas--04b189127/)
 
 Vinícius Pinheiro 
 [Linkedin](https://www.linkedin.com/in/viniciuspinheiiro/)
 
-# Design 🎨
 Sarah Ninsi
 [Linkedin](https://www.linkedin.com/in/sarahninsi/)
 
